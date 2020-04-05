@@ -1,0 +1,74 @@
+html {
+    background-image: url("../img/cork-board.png");
+}
+h1 {
+  text-align: center;
+  color: #000000;
+  text-shadow: 1px 1px #8c92ac;
+  font-family: Arial, "Helvetica", sans-serif;
+}
+.intro h2{
+  text-align: center;
+  color: #000000;
+  text-shadow: 1px 1px #8c92ac;
+  font-display: bold;
+  font-family: Arial, "Helvetica", sans-serif;
+}
+.intro p {
+  font-size: 20px;
+  text-align: center;
+  font-display: bold;
+  font-family: Arial, "Helvetica", sans-serif;
+  text-shadow: 0px 1px #8c92ac;
+}
+#section-a {
+ display: flex;
+}
+/* This are the 3 sections */
+#section-a .intro-2 {
+  background-color: #8c92ac;
+  text-align: left;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+#section-a .intro-3 {
+  background-color:#8c92ac ;
+  text-align: left;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+#section-a .intro-4 {
+  text-align: left;
+  background-color: #8c92ac;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+   
+  
+  
+    
+
+ 
+
+
+ 
+div.container img {
+    right: -25%;
+    width: 50%;
+    display: flex;
+    position: relative;
+    
+}
+
+
+    
+    
+    
+
+
